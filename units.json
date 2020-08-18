@@ -1,0 +1,99 @@
+{
+  "ore": {
+    "alias": "ore",
+    "unit": "ø",
+    "symbol": "🔷",
+    "si": ["atto","a"],
+    "value": 1E+00
+  },
+  "wav": {
+    "alias": "fecore",
+    "symbol": "〰️",
+    "si": ["femto","f"],
+    "value": 1E+03
+  },
+  "grav": {
+    "alias": "picore",
+    "symbol": "➰",
+    "si": ["pico","p"],
+    "value": 1E+06
+  },
+  "nucle": {
+    "alias": "nacore",
+    "unit": "ꞥ",
+    "symbol": "✳️",
+    "si": ["nano","n"],
+    "value": 1E+09
+  },
+  "atom": {
+    "alias": "μcore",
+    "symbol": "⚛️",
+    "si": ["micro","μ"],
+    "value": 1E+12
+  },
+  "moli": {
+    "alias": "micore",
+    "unit": "₥",
+    "symbol": "❇️️",
+    "si": ["mili","m"],
+    "value": 1E+15
+  },
+  "core": {
+    "alias": "core",
+    "unit": "₡",
+    "symbol": "🟢️️",
+    "value": 1E+18
+  },
+  "aer": {
+    "alias": "kicore",
+    "unit": "₳",
+    "symbol": "🌀️",
+    "si": ["kilo","k"],
+    "value": 1E+21
+  },
+  "orb": {
+    "alias": "Mecore",
+    "symbol": "🔵️",
+    "si": ["mega","M"],
+    "value": 1E+24
+  },
+  "plano": {
+    "alias": "Gicore",
+    "unit": "Ᵽ",
+    "symbol": "🪐️",
+    "si": ["giga","G"],
+    "value": 1E+27
+  },
+  "tera": {
+    "alias": "Tecore",
+    "symbol": "🌐️",
+    "si": ["tera","T"],
+    "value": 1E+30
+  },
+  "sola": {
+    "alias": "Pecore",
+    "symbol": "💫️",
+    "si": ["peta","P"],
+    "value": 1E+33
+  },
+  "galx": {
+    "alias": "Excore",
+    "unit": "Ǥ",
+    "symbol": "✨️",
+    "si": ["exa","E"],
+    "value": 1E+36
+  },
+  "cluster": {
+    "alias": "Zecore",
+    "symbol": "💠️",
+    "si": ["zetta","Z"],
+    "value": 1E+39
+  },
+  "supermatter": {
+    "alias": "Yocore",
+    "unit": "₷",
+    "symbol": "✴️️",
+    "si": ["yotta","Y"],
+    "value": 1E+42
+  }
+}
