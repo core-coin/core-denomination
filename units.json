@@ -25,7 +25,7 @@
     "name": "nucle",
     "alias": "nacore",
     "unit": "ꞥ",
-    "symbol": "✳️",
+    "symbol": "✴️",
     "si": ["nano","n"],
     "value": 1E+09
   },
@@ -40,7 +40,7 @@
     "name": "moli",
     "alias": "micore",
     "unit": "₥",
-    "symbol": "❇️️",
+    "symbol": "💮",
     "si": ["mili","m"],
     "value": 1E+15
   },
@@ -62,7 +62,7 @@
   {
     "name": "orb",
     "alias": "Mecore",
-    "symbol": "🔵️",
+    "symbol": "☄️",
     "si": ["mega","M"],
     "value": 1E+24
   },
@@ -107,7 +107,7 @@
     "name": "supermatter",
     "alias": "Yocore",
     "unit": "₷",
-    "symbol": "✴️️",
+    "symbol": "🔱",
     "si": ["yotta","Y"],
     "value": 1E+42
   }
